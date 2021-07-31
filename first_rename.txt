@@ -3,4 +3,8 @@ second commit 2.master
 swa
 pniffgl s
             mastewr 
+<<<<<<< HEAD
  formfsaf mastewr this a t bugfix
+=======
+ form mastewr sadasdadthis a t bugfixsdadwa change
+>>>>>>> f9bf5eb90673537170ce7365948236065a8d3ec8
